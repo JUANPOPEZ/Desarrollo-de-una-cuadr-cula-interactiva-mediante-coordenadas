@@ -67,6 +67,3 @@ comprensión y documentación.
 - Lenguaje: Python 3 (librería estándar únicamente).
 - Entorno de ejecución: terminal / consola.
 
-## Autor
-
-_(Agrega aquí tu nombre y datos del curso)_
